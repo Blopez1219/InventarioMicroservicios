@@ -1,8 +1,8 @@
 # InventarioMicroservicios
 
 ## Requisitos
-.Net Core 9.0.100
-Microsoft SQL Server 2022
+- .Net Core 9.0.100
+- Microsoft SQL Server 2022
 
 ## Ejecución del backend
 1. Instalar .NET Core SDK.
