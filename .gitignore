@@ -1,0 +1,12 @@
+# Carpetas de compilación y dependencias
+bin/
+obj/
+.vs/
+*.db
+*.sqlite
+node_modules/
+
+# Configuración local de usuario
+appsettings.json
+appsettings.Development.json
+.env
